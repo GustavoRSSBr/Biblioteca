@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">Biblioteca</string>
+    <string name="codigo">Código</string>
+    <string name="aluguel">Aluguel</string>
+    <string name="revista">Revista</string>
+    <string name="livro">Livro</string>
+    <string name="aluno">Aluno</string>
+    <string name="ra">RA</string>
+    <string name="nome">Nome</string>
+    <string name="qtd_paginas">Quantidade de páginas</string>
+    <string name="isbn">ISBN</string>
+    <string name="edicao">Edição</string>
+    <string name="issn">ISSN</string>
+    <string name="email">Email</string>
+    <string name="data_retirada">Data de Retirada</string>
+    <string name="alugar">Alugar</string>
+    <string name="inserir">Inserir</string>
+    <string name="modificar">Modificar</string>
+    <string name="excluir">Excluir</string>
+    <string name="buscar">Buscar</string>
+    <string name="listar">Listar</string>
+    <string name="inicio">Biblioteca</string>
+    <string name="data_devolucao">Data de Devolução</string>
+</resources>
